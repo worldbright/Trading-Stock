@@ -1,4 +1,4 @@
-# AI_STOCK
+# Trading-Stock
  
 - Server : Flask
 - Front-end : Android
