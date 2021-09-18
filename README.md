@@ -2,7 +2,7 @@
  
 - Server : Flask
 - Front-end : Android
-- HTTP 통신 : Retrofit
+- HTTP Request : Retrofit
 - DB : MongoDB (NoSQL)
 - Trade API : Creon API (대신증권)
 - Chart Data : Creon API (대신증권)
